@@ -1,0 +1,11 @@
+pandas
+numpy
+nltk
+gensim
+scikit-learn
+matplotlib
+seaborn
+
+numpy==1.23.5 gensim==4.3.1
+--force-reinstall numpy==1.23.5 scipy==1.9.3 gensim==4.3.1
+
